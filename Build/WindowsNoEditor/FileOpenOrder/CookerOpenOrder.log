@@ -66,14 +66,14 @@
 "E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_006.uexp" 65
 "E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_005.uasset" 66
 "E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_005.uexp" 67
-"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_004.uasset" 68
-"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_004.uexp" 69
-"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_003.uasset" 70
-"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_003.uexp" 71
-"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_002.uasset" 72
-"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_002.uexp" 73
-"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_001.uasset" 74
-"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_001.uexp" 75
+"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_001.uasset" 68
+"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_001.uexp" 69
+"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_002.uasset" 70
+"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_002.uexp" 71
+"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_003.uasset" 72
+"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_003.uexp" 73
+"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_004.uasset" 74
+"E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Material_004.uexp" 75
 "E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Player_1_Mesh.uasset" 76
 "E:/Programing Games/Just_Hit/Content/Data/Player_1_mesh/Player_1_Mesh.uexp" 77
 "E:/Programing Games/Just_Hit/Content/Out_Of_Bounce.uasset" 78
@@ -606,25 +606,25 @@
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 605
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 606
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 607
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 608
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 609
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 610
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 611
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 612
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 613
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 614
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 615
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 616
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 617
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 618
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 619
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 620
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 621
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 622
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 623
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 624
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 625
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 626
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 611
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 612
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 613
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 614
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 615
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 616
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 617
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 618
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 619
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 620
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 621
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 622
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 623
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 624
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 625
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 626
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 627
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 628
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 629
@@ -781,22 +781,22 @@
 "E:/Programing Games/Just_Hit/Content/Levels/Main_Map_BuiltData.ubulk" 780
 "E:/Programing Games/Just_Hit/Content/Data/Widget_BP/Time.uasset" 781
 "E:/Programing Games/Just_Hit/Content/Data/Widget_BP/Time.uexp" 782
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_007.uasset" 783
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_007.uexp" 784
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Shortcut.uasset" 785
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Shortcut.uexp" 786
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_006.uasset" 787
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_006.uexp" 788
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/NewMaterial.uasset" 783
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/NewMaterial.uexp" 784
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_003.uasset" 785
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_003.uexp" 786
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_004.uasset" 787
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_004.uexp" 788
 "E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_005.uasset" 789
 "E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_005.uexp" 790
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_004.uasset" 791
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_004.uexp" 792
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_003.uasset" 793
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_003.uexp" 794
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/untitled.uasset" 795
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/untitled.uexp" 796
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/NewMaterial.uasset" 797
-"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/NewMaterial.uexp" 798
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Shortcut.uasset" 791
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Shortcut.uexp" 792
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_006.uasset" 793
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_006.uexp" 794
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_007.uasset" 795
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/Material_007.uexp" 796
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/untitled.uasset" 797
+"E:/Programing Games/Just_Hit/Content/Data/Map_mesh/untitled.uexp" 798
 "E:/Programing Games/Just_Hit/Content/Levels/Main_Map.uexp" 799
 "E:/Programing Games/Just_Hit/Content/Levels/Main_Map.umap" 800
 "E:/Programing Games/Just_Hit/Content/Data/Widget_BP/Input_Method/Just_Hit_Logo.uasset" 801
